@@ -1,0 +1,13 @@
+
+*.aux
+*.aaa
+*.log
+*.out
+*.bbl
+*.blg
+main.synctex(busy)
+*.bcf
+*.toc
+*.gz
+*.xml
+*.dvi
